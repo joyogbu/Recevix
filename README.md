@@ -178,7 +178,7 @@ USDC_ADDRESS
 ```
 
 
-## How JoPay Works
+## How Recevix Works
 
 ### Merchant
 
